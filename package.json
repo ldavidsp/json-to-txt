@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ldavidsp/json_to_txt.git"
+    "url": "git+https://github.com/ldavidsp/json-to-txt.git"
   },
   "keywords": [
     "convertor",
@@ -23,15 +23,19 @@
     "get-string-from-json",
     "json-string"
   ],
-  "author": {
-    "name": "Luis Solorzano",
-    "email": "luisnic20@gmail.com"
-  },
+  "author": "Luis Solorzano <luisnic20@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "fs-web": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^17.0.25"
+  },
+  "bugs": {
+    "url": "https://github.com/ldavidsp/json_to_txt/issues"
+  },
+  "homepage": "https://github.com/ldavidsp/json_to_txt#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
