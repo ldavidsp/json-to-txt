@@ -1,4 +1,3 @@
-/node_modules
-/lib
-/.idea/
-.idea/
+/node_modules/*
+/.idea/*
+/.vscode/*
