@@ -1,0 +1,37 @@
+{
+  "name": "@ldavidsp/json-to-txt",
+  "version": "1.0.0",
+  "description": "Reads JSON data (Array of objects) and returns a string in a txt file format.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldavidsp/json_to_txt.git"
+  },
+  "keywords": [
+    "convertor",
+    "json convertor",
+    "json to txt",
+    "json-to-txt",
+    "json",
+    "txt",
+    "export-json-to-txt",
+    "json-to-string",
+    "get-string-from-json",
+    "json-string"
+  ],
+  "author": {
+    "name": "Luis Solorzano",
+    "email": "luisnic20@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs-web": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  }
+}
